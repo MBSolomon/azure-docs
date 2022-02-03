@@ -14,7 +14,7 @@ ms.workload: tbd
 ms.devlang: csharp
 ms.topic: tutorial
 ms.date: 07/25/2020
-ms.author: jken
+ms.author: msolomon
 
 #Customer intent: I want to use push refresh to dynamically update my app to use the latest configuration data in App Configuration.
 ---
